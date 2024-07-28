@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <img src="./images/image.png" width="100">
 </p>
@@ -7,6 +8,14 @@
 # Landing Page DNC
 > i **NOTE:** Repositório desenvolvido durante aula na  [`PLATAFORMA DNC`](https://aluno.dnc.group/painel)
 
+=======
+Claro! Vou atualizar o README para incluir essa instrução específica para acessar a Landing Page. Aqui está o README atualizado:
+
+```markdown
+# Landing Page DNC
+
+![Landing Page Screenshot](path/to/screenshot.png)
+>>>>>>> f3523f66accf0f6e78b77602cad11aa83efc108c
 
 ## Descrição
 
@@ -14,7 +23,11 @@ Este projeto é uma landing page desenvolvida para o curso da DNC. A página foi
 
 ## Demonstração
 
+<<<<<<< HEAD
 Para acessar a Landing Page, clique no link: [landing-page-DNC](https://luizvictorino.github.io/landing-page-DNC/)
+=======
+Para acessar a Landing Page, clique no link: [https://luizvictorino.github.io/landing-page-DNC/](https://luizvictorino.github.io/landing-page-DNC/)
+>>>>>>> f3523f66accf0f6e78b77602cad11aa83efc108c
 
 ## Funcionalidades
 
@@ -37,6 +50,7 @@ Para acessar a Landing Page, clique no link: [landing-page-DNC](https://luizvict
 ```plaintext
 landing-page-DNC/
 ├── index.html
+<<<<<<< HEAD
 ├── style.css
 ├── index.js
 ├── cards/
@@ -51,6 +65,15 @@ landing-page-DNC/
 |  ├── icon-setaEsquerda.svg
 ├── images/
 │  ├── logo.svg
+=======
+├── css/
+│   ├── styles.css
+├── js/
+│   ├── scripts.js
+├── images/
+│   ├── logo.png
+│   ├── banner.jpg
+>>>>>>> f3523f66accf0f6e78b77602cad11aa83efc108c
 └── README.md
 ```
 
@@ -73,13 +96,19 @@ landing-page-DNC/
 ## Uso
 
 - Edite o conteúdo do arquivo `index.html` para personalizar os textos e imagens da landing page.
+<<<<<<< HEAD
 - Adicione suas próprias folhas de estilo em `style.css` para modificar o design conforme necessário.
 - Utilize o arquivo `index.js` para adicionar ou modificar funcionalidades JavaScript.
+=======
+- Adicione suas próprias folhas de estilo em `css/styles.css` para modificar o design conforme necessário.
+- Utilize o arquivo `js/scripts.js` para adicionar ou modificar funcionalidades JavaScript.
+>>>>>>> f3523f66accf0f6e78b77602cad11aa83efc108c
 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias e correções.
 
+<<<<<<< HEAD
 ## 👨‍💻 Expert
 
 <p>
@@ -100,3 +129,21 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ---
 
 > Este **README** agora inclui a instrução específica para acessar a Landing Page diretamente, além de todos os outros detalhes relevantes.
+=======
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contato
+
+- **Nome**: Luiz Victorino
+- **LinkedIn**: [luiz-victorino](https://www.linkedin.com/in/luiz-victorino/)
+- **Email**: seu-email@example.com
+
+---
+
+Feito com ♥ por Luiz Victorino
+```
+
+Este README agora inclui a instrução específica para acessar a Landing Page diretamente, além de todos os outros detalhes relevantes.
+>>>>>>> f3523f66accf0f6e78b77602cad11aa83efc108c
